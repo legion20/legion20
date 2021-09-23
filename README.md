@@ -29,9 +29,7 @@ I’m a 3rd-year student pursuing a Bachelor’s in Computer science with a spec
 <a align= "center" href="https://github.com/legion20">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=legion20&theme=radical">
 </p>
-<p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=legion20&count_private=true&theme=radical&show_icons=true" />
-</p>
 
 <h3>👨🏻‍💻 &nbsp;My Practicing Profiles:</h3>
 <p>

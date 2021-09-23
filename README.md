@@ -33,9 +33,9 @@ I’m a 3rd-year student pursuing a Bachelor’s in Computer science with a spec
 
 <h3>👨🏻‍💻 &nbsp;My Practicing Profiles:</h3>
 <p>
-<a href="https://leetcode.com/legion20/" target="blank" style="margin: 0px 0px 2px 0px;"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvx45x7j4Zhg/company-logo_200_200/0/1519864832328?e=2159024400&v=beta&t=bn7GubuOuUXMKQ6YZxs23WZMabMviFMT7grLqM6_TC0" alt="" height="45" width="45" /></a>
-<a href="https://www.codechef.com/users/legion20" target="blank" style="margin: 0px 0px 2px 0px;"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="" height="45" width="45" /></a>
-<a href="https://auth.geeksforgeeks.org/user/legion20/practice/" target="blank" style="margin: 0px 0px 2px 0px;"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="" height="45" width="45" /></a>
+<a href="https://leetcode.com/legion20/" target="blank" style="margin: 0px 0px 7px 0px;"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvx45x7j4Zhg/company-logo_200_200/0/1519864832328?e=2159024400&v=beta&t=bn7GubuOuUXMKQ6YZxs23WZMabMviFMT7grLqM6_TC0" alt="" height="45" width="45" /></a>
+<a href="https://www.codechef.com/users/legion20" target="blank" style="margin: 0px 0px 7px 0px;"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="" height="45" width="45" /></a>
+<a href="https://auth.geeksforgeeks.org/user/legion20/practice/" target="blank" style="margin: 0px 0px 7px 0px;"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="" height="45" width="45" /></a>
 </p>
 </h4>
 <hr>

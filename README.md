@@ -1,8 +1,15 @@
 <h1 align="center">Hi there! I'm Vishesh Bardia</h1>
 <h4 align="center">
-I’m a 3rd-year student pursuing a Bachelor’s in Computer science with a specialization in Cyber Security and Digital Forensics, from VIT Bhopal University. I love Problem Solving and currently learning about Open-Source Contributions. 
+👨‍🎓I’m a 3rd-year student pursuing a Bachelor’s in Computer science with a specialization in Cyber Security and Digital Forensics, from VIT Bhopal University.
 </h4>
 
+<br>- ✍  I love Problem Solving. 
+
+<br>- 👩‍💻 I’m currently learning Web Development and Open Source Contributions.
+
+<br>- 🔭 Nothing is more Important than a Missed Opportunity.
+
+<br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <p align= "left">
 

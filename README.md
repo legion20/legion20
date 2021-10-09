@@ -7,7 +7,7 @@
 
 <br>- 👩‍💻 I’m currently learning Web Development and Open Source Contributions.
 
-<br>- 🔭 Nothing is more Important than a Missed Opportunity.
+<br>- 🔭 Nothing is more Expensive than a Missed Opportunity.
 
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>

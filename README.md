@@ -1,13 +1,7 @@
 <h1 align="center">Hi there! I'm Vishesh Bardia</h1>
 <h4 align="center">
-👨‍🎓I’m currently working as Software Developer.
+👩‍💻 I’m currently working as Software Developer.
 </h4>
-
-<br>- ✍  I love Problem Solving. 
-
-<br>- 👩‍💻 I’m currently learning Web Development and Open Source Contributions.
-
-<br>- 🔭 Nothing is more Expensive than a Missed Opportunity.
 
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -35,20 +29,5 @@
 <a align= "center" href="https://github.com/legion20">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=legion20&theme=radical">
 <br>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=legion20&count_private=true&theme=radical&show_icons=true" />
-
-<h3>👨🏻‍💻 &nbsp;My Practicing Profiles:</h3>
-<p>
-<a href="https://leetcode.com/legion20/" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvx45x7j4Zhg/company-logo_200_200/0/1519864832328?e=2159024400&v=beta&t=bn7GubuOuUXMKQ6YZxs23WZMabMviFMT7grLqM6_TC0" alt="" height="45" width="45"/></a>&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/legion20" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="" height="45" width="45"/></a>&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/legion20/practice/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="" height="45" width="45"/></a>
-</p>
-</h4>
-<hr>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/legionn20" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="" height="50" width="50" /></a>
-</p>
 
 <hr>
